@@ -1,0 +1,25 @@
+* {
+   outline: 1px solid red !important;
+}
+
+.content {
+   display: flex;
+}
+
+.image {
+   flex: 1;
+}
+
+.description {
+   flex: 2;
+   margin-top: 0px;
+   color: blue;
+}
+
+img {
+   width: 100%;
+}
+
+div{
+   margin: auto;
+}
