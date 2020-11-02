@@ -1,0 +1,60 @@
+ul.horizontal{
+  margin:0;
+  padding:0;
+  float:right;
+  margin-right: 150px;
+  margin-top: 15px;
+  }
+
+  ul.horizontal li{
+    display:block;
+    float:left;
+    padding:0 10px;
+    font-size: x-small;
+    }
+    
+.icon{
+ text-align: left;
+ margin-left:25px;
+ padding-top: 25px;
+}
+
+.main-container{
+ 
+ 
+}
+
+.title{
+  float: center;
+  margin-top: 150px;
+  text-align: center;
+  font-size: large;
+  
+}
+
+body {
+  color:white;
+}
+.head{
+  background-image: url("../img/estudiantes.jpg");
+  width: 1000px;
+  height: 600px;
+}
+
+.tabla{
+  float:center;
+  text-align: center;
+  margin-top: 100px;
+  padding-left: 180px;
+}
+
+
+.text{
+  text-align: center;
+}
+.register{
+ margin-left: 50px;
+}
+
+
+
